@@ -33,3 +33,4 @@ Cell | Cell | Cell
 i. List (Using i)
 ii. List (Uisng ii)  
 	i. Sublist (Using i)  
+Using i seems to designate the line as a subline automatically. Therefore, use numbers or * for main bullets and i for sub
