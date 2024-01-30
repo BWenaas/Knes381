@@ -28,3 +28,8 @@ Cell | Cell | Cell
 + Bullet 1 (Using plus)  
 	* Bullet 2 (Using asterisk)  
  
+1. Numbered list  
+	1. numbered sublist  
+i. List (Using i)
+ii. List (Uisng ii)
+	i. Sublist (Using i)
