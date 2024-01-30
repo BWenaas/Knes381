@@ -25,5 +25,6 @@ Cell | Cell | Cell
 Cell | Cell | Cell  
 
 
-+Bullet 1 (Using plus)
-	*Bullet 2 (Using asterisk)
++Bullet 1 (Using plus)  
+	*Bullet 2 (Using asterisk)  
+ 
