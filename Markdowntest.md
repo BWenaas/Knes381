@@ -16,3 +16,12 @@ First Header | Second Header
 Content Cell | Content Cell  
 Content Cell | Content Cell  
 Content Cell | Content Cell  
+
+Aligned Table  
+Right Aligned | Left Aligned | Centre Aligned  
+-: | :- | :-:  
+Cell | Cell | Cell  
+Cell | Cell | Cell  
+Cell | Cell | Cell  
+
+
