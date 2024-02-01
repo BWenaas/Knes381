@@ -5,7 +5,7 @@
 	<h1 style="text-align: center;">Header</h1>
 
 <span style="color:red">
-	<p style="text-align: center;" title="Tooltip">This is a paragraph.</p>
+	<p style="text-align: center;" title="Tooltip">This is a paragraph. VO<sub>2</sub> is an important measure of athletic capacity.</p>
 </span>
 
 <img src="sitesubfolder/Smile.png" width="300" height="300">
