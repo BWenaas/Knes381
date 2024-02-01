@@ -29,7 +29,8 @@ Cell | Cell | Cell
 	* Bullet 2 (Using asterisk)  
  
 1. Numbered list  
-	1. numbered sublist  
+	2. numbered sublist  
 i. List (Using i)
-ii. List (Uisng ii)
-	i. Sublist (Using i)
+ii. List (Uisng ii)  
+	i. Sublist (Using i)  
+Using i seems to designate the line as a subline automatically. Therefore, use numbers or * for main bullets and i for sub
