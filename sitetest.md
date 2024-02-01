@@ -10,7 +10,7 @@
 
 <img src="Smile.png" width="300" height="300">
 
-<a href="/Knes381/sitesubfolder/readme.md" target="_blank">open readme file</a>
+<a href="Knes381/sitesubfolder/readme.md" target="_blank">open readme file</a>
 
 </body>
 </html>
