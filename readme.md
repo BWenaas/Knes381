@@ -4,6 +4,3 @@
 2) second list
 + Bullet list
 + second item bullet list
-
-
-yadayadayada this should be gone
