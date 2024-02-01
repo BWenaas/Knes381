@@ -8,9 +8,9 @@
 	<p style="text-align: center;" title="Tooltip">This is a paragraph.</p>
 </span>
 
-<img src="Smile.png" width="300" height="300">
+<img src="sitesubfolder/Smile.png" width="300" height="300">
 
-<a href="Knes381/sitesubfolder/readme.md" target="_blank">open readme file</a>
+<a href="sitesubfolder/readme.md" target="_blank">open readme file</a>
 
 </body>
 </html>
