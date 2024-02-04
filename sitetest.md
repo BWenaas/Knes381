@@ -11,7 +11,7 @@ table {
 
 <h1 style="text-align: center;">Header</h1>
 
-<table style="text-align: center;">
+<table style="width:100%">
 	<tr>
 		<td>
 			<span style="color:red">
