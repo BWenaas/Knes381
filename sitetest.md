@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html>
-	<title>Brandon Wenaas - Sample Web Page</title>
+<title>Brandon Wenaas - Sample Web Page</title>
 <body>
-
 	<h1 style="text-align: center;">Header</h1>
-
-
-
 </body>
 </html>
 
