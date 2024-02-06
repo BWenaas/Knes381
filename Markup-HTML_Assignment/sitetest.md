@@ -22,7 +22,6 @@ table {
 		<td>
 			<img src="sitesubfolder/Smile.png" width="300" height="300">
 		</td>
-		<td>                                  </td>
 	</tr>
 	<tr>
 		<td>
