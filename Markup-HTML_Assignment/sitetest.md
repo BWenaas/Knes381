@@ -15,7 +15,7 @@ table {
 	<tr>
 		<td>
 			<span style="color:red">
-				<p style="text-align: right;" title="Tooltip">This is a paragraph. V̇O<sub>2</sub> is an important measure of athletic capacity. <br>Just look at this guy, his V̇O<sub>2</sub> is great.</br>
+				<p style="text-align: right;" title="Tooltip">This is a paragraph. V̇O<sub>2</sub> is an important measure of athletic capacity. <br>Just look at this guy, his V̇O<sub>2</sub> is great. ----> </br>
 				</p>
 			</span>
 		</td>
