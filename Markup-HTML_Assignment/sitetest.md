@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-	<title>Brandon Wenaas - Sample Web Page</title>
+	<title>HTML/MD Assignment</title>
 <style>
 table {
 	border: 1px solid white;
@@ -9,7 +9,7 @@ table {
 </style>
 <body>
 
-<h1 style="text-align: center;">Header</h1>
+<h1 style="text-align: center;">HTML-Markdown_Assignment</h1>
 
 <table style="width:100%">
 	<tr>
