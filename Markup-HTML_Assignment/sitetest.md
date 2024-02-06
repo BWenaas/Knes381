@@ -22,13 +22,12 @@ table {
 		<td>
 			<img src="sitesubfolder/Smile.png" width="300" height="300">
 		</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>
 			<a style="font-weight:bold" href="sitesubfolder/readme.md" target="_blank">open readme file</a>
 		</td>
-		<td></td>
-		<td></td>
 	</tr>
 </table>
 
